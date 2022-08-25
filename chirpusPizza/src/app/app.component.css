@@ -1,0 +1,12 @@
+#AlertDiv {
+    color:white;
+    position:absolute;
+    text-align:left;
+    background-color:black;
+}
+
+#AlertDiv h1 {
+    margin:auto;
+    line-height:51px;
+    vertical-align:middle;
+}
